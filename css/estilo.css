@@ -21,7 +21,7 @@ body {
 
 /* ===  1ª seção === */
 .topo {
-    background-color: #afddfb;
+    background-color: #afddfb ;
 }
 
 .topo img {
@@ -81,7 +81,7 @@ h2 {
 
 .servicos, .contato {
 	text-align: center;
-    background-color: #1d80c1; /*alterar a cor*/
+    background-color: #6699cc; /*alterar a cor*/
 }
 
 h3 {
